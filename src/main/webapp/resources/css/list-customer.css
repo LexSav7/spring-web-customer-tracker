@@ -1,0 +1,40 @@
+table {
+	width: 100%;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+th, td {
+	padding: 10px 0;
+	border-bottom: 1px solid #605052;
+}
+
+th {
+	background-color: #D5AE41;
+	font-size: 18px;
+}
+
+tr:nth-child(even) td {
+	background-color: #EAE6DA;
+}
+
+form {
+	display: inline;
+}
+
+.add-student-button {
+	background-color: #DC4C46;
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 10px 20px;
+}
+
+.action-button {
+	background-color: #AD5D5D;
+	color: white;
+}
+
+#under-menu {
+	margin: 0 10px;
+}

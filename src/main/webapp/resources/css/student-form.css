@@ -1,0 +1,28 @@
+#margin-left {
+	margin-left: 20px;
+}
+
+.save-button {
+	padding: 8px 15px;
+	background-color: #6B5B95;
+	color: white;
+	font-size: 16px;
+}
+
+table {
+	width: 50%;
+}
+
+td {
+	padding: 5px 0;
+}
+
+tr:last-child td {
+	padding-top: 15px;
+}
+
+input:focus {
+	background-image: none;
+    border-color: #929292;
+    box-shadow: 0 0 10px #9ECAED;
+}
